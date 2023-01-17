@@ -1,3 +1,3 @@
 # c-barebones-bash
 
-my bare-bones version of the linux bash terminal
+This is my bare-bones version of the Linux Bash shell. I made this for my Operating Systems class.
